@@ -1,6 +1,6 @@
 import base64
 import streamlit as st
-import plotly.express as px
+#import plotly.express as px
 
 st.set_page_config("Quantam Stocks")
 
