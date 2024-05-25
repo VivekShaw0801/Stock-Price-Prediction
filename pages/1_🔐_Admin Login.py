@@ -2,7 +2,7 @@ import streamlit as st
 import sqlite3
 import pandas as pd
 import base64
-import plotly.express as px
+#import plotly.express as px
 
 st.set_page_config("👨🏻‍💼 Admin")
 
